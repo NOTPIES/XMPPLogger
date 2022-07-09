@@ -6,6 +6,7 @@
 2) Run "npm install" on cmd (inside the folder)
 3) Run "node index.js" on cmd (inside the folder)
 4) Use something to redirect the xmpp to 127.0.0.1:443 (I recommend cloudstorage editing)
+5) The xmpp requests (client and server requests) should log on the cmd window
 
 ## Cloudstorage Editing to redirect XMPP
 Add to DefaultEngine.ini
