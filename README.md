@@ -24,3 +24,5 @@ ServerPort=443
 ```
 
 made by notpies
+
+you can change the xmpp url in index.js, it uses epic games xmpp by default
